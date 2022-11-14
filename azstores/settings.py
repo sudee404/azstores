@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-wp%o9v5n5%^u&$m7c-)3&4&_o^q(*ouor-)vp4vjfg^tgvailt
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['azstores-sudee404.koyeb.app','*']
 
 
 # Application definition
